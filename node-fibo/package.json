@@ -1,6 +1,0 @@
-{
-  "name" : "node-fibo",
-  "version": "1.0.0",
-  "dependencies": {"express":"2.4.x"},
-  "devDependencies": {}
-}
